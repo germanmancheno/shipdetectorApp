@@ -1,0 +1,6 @@
+The following tutorial can be followed to deploy an APP on Heroku: https://medium.com/@ksashok/containerise-your-python-flask-using-docker-and-deploy-it-onto-heroku-a0b48d025e43
+
+The application developed in this project can be found here: https://shipdetector02.herokuapp.com/
+
+
+
