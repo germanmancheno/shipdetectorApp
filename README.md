@@ -1,6 +1,6 @@
 # shipdetectorApp
 
-Springboard capstone project: image binary classifier for satellite images with/without ships.
+### Springboard capstone project: image binary classifier for satellite images with/without ships.
 
 Files included:
 
