@@ -5,6 +5,7 @@ Springboard capstone project: image binary classifier for satellite images with/
 Files included:
 
 - Production code: 
+  - Capstone_API.py
 - App files:
   - Main python file: main.py
   - Model file: model1.h5
