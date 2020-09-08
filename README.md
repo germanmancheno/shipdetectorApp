@@ -18,6 +18,4 @@ Files included:
   - requirements.txt
 
 
-![Image of architecture](https://github.com/germanmancheno/shipdetectorApp/blob/master/ML_architecture_.PNG)
 ![Image of architecture](https://github.com/germanmancheno/shipdetectorApp/blob/master/ML_architecture.PNG)
-![Image of architecture](https://github.com/germanmancheno/shipdetectorApp/blob/master/ML_architecture_02.PNG)
