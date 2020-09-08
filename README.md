@@ -17,3 +17,5 @@ Files included:
   - Dockerfile
   - requirements.txt
 
+
+![Image of architecture](https://github.com/germanmancheno/shipdetectorApp/blob/master/ML_architecture.PNG)
